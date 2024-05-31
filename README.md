@@ -13,4 +13,6 @@ Evaluate impact of treatment: drugs, therapy, combinations
 - https://data.world/nicholsn/adhd-200
 - https://www.kaggle.com/datasets/arashnic/adhd-diagnosis-data?select=features.csv
 - https://www.statista.com/statistics/1409835/current-adhd-prevalence-us-children-by-state
+- https://www.nimhgenetics.org/download-tool/ADHD
+- https://nda.nih.gov/
 
