@@ -4,7 +4,7 @@
 
 Data from topical surveys from 2016 to 2022 has been combined into a single data frame.
 * Target column: K2Q31A ‐ ADD/ADHD (T1 T2 T3)
-* * Has a doctor or other health care provider EVER told you that this child has Attention Deficit Disorder or Attention‐Deficit/Hyperactivity Disorder, that is, ADD or ADHD? 1 = Yes 2 = No
+* * Has a doctor or other health care provider EVER told you that this child has Attention Deficit Disorder or Attention‐Deficit/Hyperactivity Disorder, that is, ADD or ADHD? 1 = Yes 2 = No * *
 
 Initial set of data after combination: 
 * 551 columns (550 categories + 1 Target)
