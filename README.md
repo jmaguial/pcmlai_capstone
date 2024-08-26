@@ -31,21 +31,3 @@ Final dataset: 277665 rows by 423 columns
 * 422 numerical normalized categories
 Data exploration shows very low levels of correlation for the most part, with the existence of isolated clusters of higher positive and negative correlation values
 
-
-
-## Initial Ideas
-### ADHD
-
-#### Objective
-Outline patters for detection and early detection
-Evaluate impact of treatment: drugs, therapy, combinations
-
-#### Resources
-- https://www.cdc.gov/adhd/data/?CDC_AAref_Val=https://www.cdc.gov/ncbddd/adhd/data.html
-- https://chadd.org/about-adhd/adhd-data-and-statistics/
-- https://data.world/nicholsn/adhd-200
-- https://www.kaggle.com/datasets/arashnic/adhd-diagnosis-data?select=features.csv
-- https://www.statista.com/statistics/1409835/current-adhd-prevalence-us-children-by-state
-- https://www.nimhgenetics.org/download-tool/ADHD
-- https://nda.nih.gov/
-
