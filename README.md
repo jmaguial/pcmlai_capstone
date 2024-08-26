@@ -32,3 +32,33 @@ Final dataset: 277665 rows by 423 columns
 * 422 numerical normalized categories
 Data exploration shows very low levels of correlation for the most part, with the existence of isolated clusters of higher positive and negative correlation values
 
+![Correlation chart](https://github.com/jmaguial/pcmlai_capstone/blob/main/resources/img/EDA_correlation.png)
+
+### Histograms for subset of features for ADHD/ADD and non-ADHD/ADD diagnosed children
+Compared histograms for some categories between records with target ‘y’=1 (ADHD/ADD diagnosed) and records with target ‘y’=2 (ADHD/ADD never diagnosed).
+For this exploration, the following 2 set of 8 categories where selected. 
+#### Situations the children has experienced
+* ACE1 ‐ Hard to Cover Basics Like Food or Housing
+* ACE3 ‐ Child Experienced ‐ Parent or Guardian Divorced
+* ACE4 ‐ Child Experienced ‐ Parent or Guardian Died
+* ACE6 ‐ Child Experienced ‐ Adults Slap, Hit, Kick, Punch Others
+* ACE7 ‐ Child Experienced ‐ Victim of Violence
+* ACE8 ‐ Child Experienced ‐ Lived with Mentally Ill
+* ACE9 ‐ Child Experienced ‐ Lived with Person with Alcohol/Drug Problem
+* ACE10 ‐ Child Experienced ‐ Treated Unfairly Because of Race
+  
+![Histograms for ACE features](https://github.com/jmaguial/pcmlai_capstone/blob/main/resources/img/EDA_ACE_hist.png)
+
+#### Children behavioral traits
+* K7Q70_R ‐ Argues Too Much
+* K7Q82_R ‐ Cares About Doing Well in School
+* K7Q83_R ‐ Does All Required Homework
+* K7Q84_R ‐ Works to Finish Tasks Started
+* K7Q85_R ‐ Stays Calm and In Control When Challenged 
+* K6Q70_R ‐ Affectionate
+* K6Q71_R ‐ Show Interest and Curiosity
+* K6Q72_R ‐ Smiles Laughs
+
+![Histograms for K6 and K7 features](https://github.com/jmaguial/pcmlai_capstone/blob/main/resources/img/EDA_K6K7_hist.png)
+
+
