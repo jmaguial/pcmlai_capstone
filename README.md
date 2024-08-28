@@ -156,13 +156,13 @@ The confusion matrix highlights a relatively high number of false positives. The
 
 ## References:
 
-(1) https://www.census.gov/programs-surveys/nsch.html
-(2) https://www.census.gov/programs-surveys/nsch/data/datasets.html
-(3) https://www2.census.gov/programs-surveys/nsch/technical-documentation/codebook/2022-NSCH-Topical-Variable-List.pdf
-(4) https://www2.census.gov/programs-surveys/nsch/technical-documentation/NSCH_Enhancements_Technical_Document.pdf
-(5) https://www2.census.gov/programs-surveys/nsch/technical-documentation/NSCH_Weighting_Revisions.pdf
-(6) https://www.bbc.com/news/health-65534449
-(7) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4195639/#:~:text=Attention%2Ddeficit%2Fhyperactivity%20disorder%20(ADHD)%20is%20an%20underdiagnosed,and%20debilitating%20condition%20in%20adults.
+* (1) https://www.census.gov/programs-surveys/nsch.html
+* (2) https://www.census.gov/programs-surveys/nsch/data/datasets.html
+* (3) https://www2.census.gov/programs-surveys/nsch/technical-documentation/codebook/2022-NSCH-Topical-Variable-List.pdf
+* (4) https://www2.census.gov/programs-surveys/nsch/technical-documentation/NSCH_Enhancements_Technical_Document.pdf
+* (5) https://www2.census.gov/programs-surveys/nsch/technical-documentation/NSCH_Weighting_Revisions.pdf
+* (6) https://www.bbc.com/news/health-65534449
+* (7) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4195639/#:~:text=Attention%2Ddeficit%2Fhyperactivity%20disorder%20(ADHD)%20is%20an%20underdiagnosed,and%20debilitating%20condition%20in%20adults.
 
 
 
