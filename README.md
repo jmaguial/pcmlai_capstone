@@ -8,10 +8,10 @@ Machine learning (ML) and artificial intelligence (AI) are transforming the heal
 
 ### Potential use of ML/AI techniques in ADHD/ADD detection
 
-**Enhanced Diagnostic Accuracy:** ML algorithms can analyze large datasets, identifying subtle patterns and biomarkers that might be missed in traditional diagnostic methods, leading to more accurate and timely detection
-**Early Detection:** AI models can potentially detect early signs of ADHD and ADD in children by analyzing behavioral data and cognitive tests, allowing for earlier interventions that could improve long-term outcomes.
-**Personalized Treatment Plans:** Machine learning can assess an individual's unique data, such as genetic factors and environmental influences, to tailor personalized treatment plans that address their specific needs.
-**Non-Invasive Brain Analysis:** AI-driven tools, such as those analyzing brain imaging data (e.g., fMRI or EEG), can help in identifying brain patterns associated with ADHD and ADD without the need for invasive procedures.
+* **Enhanced Diagnostic Accuracy:** ML algorithms can analyze large datasets, identifying subtle patterns and biomarkers that might be missed in traditional diagnostic methods, leading to more accurate and timely detection
+* **Early Detection:** AI models can potentially detect early signs of ADHD and ADD in children by analyzing behavioral data and cognitive tests, allowing for earlier interventions that could improve long-term outcomes.
+* **Personalized Treatment Plans:** Machine learning can assess an individual's unique data, such as genetic factors and environmental influences, to tailor personalized treatment plans that address their specific needs.
+* **Non-Invasive Brain Analysis:** AI-driven tools, such as those analyzing brain imaging data (e.g., fMRI or EEG), can help in identifying brain patterns associated with ADHD and ADD without the need for invasive procedures.
 
 ### Scope and Objective
 
@@ -27,12 +27,12 @@ The National Survey of Children's Health (NSCH) is a comprehensive, nationally r
 
 ### Key Content Areas
 
-**Physical and Mental Health:** physical and chronic health conditions, including mental health status (e.g.: asthma, ADHD, autism, developmental delays, etc.)
-**Healthcare Access and Utilization:** Focus on the quality and consistency of healthcare, unmet needs for medical and mental health services, and access to specialists.
-**Development and Well-being:** behavioral, emotional, and social development. Assesses developmental delays, emotional challenges, and social skills. 
-**Family and Household Environment:** impact of family structure, parental involvement, and economic conditions. Covers topics such as family stress, parental health, and the relationship between household income and child outcomes.
-**Community and Neighborhood Environment:** assesses how environmental factors, such as exposure to violence or poor housing conditions, affect children’s health.
-**Health Promotion and Prevention:** Focuses on preventive health measures, such as immunizations, nutrition, physical activity, and dental care.
+* **Physical and Mental Health:** physical and chronic health conditions, including mental health status (e.g.: asthma, ADHD, autism, developmental delays, etc.)
+* **Healthcare Access and Utilization:** Focus on the quality and consistency of healthcare, unmet needs for medical and mental health services, and access to specialists.
+* **Development and Well-being:** behavioral, emotional, and social development. Assesses developmental delays, emotional challenges, and social skills. 
+* **Family and Household Environment:** impact of family structure, parental involvement, and economic conditions. Covers topics such as family stress, parental health, and the relationship between household income and child outcomes.
+* **Community and Neighborhood Environment:** assesses how environmental factors, such as exposure to violence or poor housing conditions, affect children’s health.
+* **Health Promotion and Prevention:** Focuses on preventive health measures, such as immunizations, nutrition, physical activity, and dental care.
 
 ### Structure
 
@@ -123,7 +123,7 @@ This is a classification problem with high unbalance.
   * Logistic Regression
     * C: 0.01, 0.1, 1; solver: liblinear
   * KNN
-    * # neighbors: 3, 5, 7, 11; weights: uniform, distance
+    * neighbors: 3, 5, 7, 11; weights: uniform, distance
   * Decision Tree
     * Max depth: 5, 10, 15; min sample split: 2, 5
   * Gradient Boosting
